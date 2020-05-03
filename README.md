@@ -1,1 +1,1 @@
-# Machine-Learning-Movie-Suggestor
+# Machine-Learning-Movie-Suggester
